@@ -4,13 +4,13 @@
 
 <div align="center">
   <picture>
-    <!-- 夜间模式 (Dark Mode): 白色文字 -->
+    <!-- 🛑 第一步判断：如果是深色模式 (Dark Mode)，用这个链接 (文字颜色 color=F7F7F7 白色) -->
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Jiahui+Yang!;I+like+coding+cool+stuffs!">
-    <!-- 白天模式 (Light Mode): 黑色文字 -->
+
+    <!-- 🛑 否则（白天模式），用下面这个链接 (文字颜色 color=000000 黑色) -->
     <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Jiahui+Yang!;I+like+coding+cool+stuffs!">
   </picture>
 </div>
-
 ### 🚀 About Me
 
 Hi there! I'm **Jiahui Yang (杨家辉)**, a student at **ECNU**! Nice to see you!
