@@ -1,29 +1,22 @@
-<div>
-   <img align="center" src="[https://count.getloli.com/@Frank-whw](https://count.getloli.com/@Robert4063?name=Robert4063&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)" />
+<div align="center">
+   <img src="https://count.getloli.com/get/@Robert4063?theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Robert4063's Count" />
 </div>
-### Hi there, I'm Robert! 👋
+ 
 
-**Welcome to my digital garden.**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Jiahui+Yang!;I+Code+Cool+Stuff..." alt="Typing SVG" />
+</div>
 
-It is **2026**, and the world of technology is moving faster than ever. Amidst this rapid evolution, I define myself as a traveler **currently on the road to finding my next great destination.**
+### 🚀 About Me
 
-I haven't pinned down a single "final" label for myself yet—and I think that's my strength. Being in this state of exploration allows me to stay curious, adaptable, and open to the infinite possibilities of code.
+Hi there! I'm **Jiahui Yang (杨家辉)**, a student from ECNU! Nice to see you!
 
-#### 💡 About My Ideas
-While I navigate through different stacks and domains, my mind is constantly active.
-- I often get sudden sparks of inspiration—sometimes they are quirky experiments, sometimes they are practical tools.
-- **My philosophy is simple:** Ideas are only valuable when they are shared.
-- I turn these thoughts into repositories here.
+It's hard to say I've found my specific path yet, so I'm trying everything!
 
-#### 🤝 meaningful Impact
-The reason I push my code to GitHub is you.
-I hope that among my repositories, my snippets, or my half-baked experiments, **you find something that solves a problem you're facing**, or simply sparks an idea of your own.
+I love doing things that are meaningful and beautiful!
 
-If my "work in progress" helps you move forward in your journey, then my exploration has been worth it.
+If there is anything I can help with, I'm very glad to do so!
 
----
-
-### 🚀 Current Status
-- 🔭 **I’m currently exploring:** OpenPulse.
-- 🌱 **I’m currently learning:** How to build things that actually matter in 2026.
-- 💬 **Ask me about:** The random idea I had yesterday.
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Robert4063&theme=highcontrast" alt="GitHub Streak" />
+</div>
